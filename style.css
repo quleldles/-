@@ -1,0 +1,132 @@
+.div1 {
+  width: 150px;
+  height: 20px;
+  background-color: yellow;
+  transition: background-color .5s linear;
+  
+}
+.div1:hover {
+   background-color: orange;
+}
+.box:hover {
+   background-color: black;
+}
+body {
+text-align: center;
+color: white;
+  }
+html,body {
+  background-image: url('./img/hh.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+.box {
+  background-color:#FFF;
+  box-sizing: border-box;
+  
+  width: 650px;
+
+  padding: 10px;
+  margin: 10px;
+
+  border:5px solid black
+}
+.box1 {
+  background-color:#FFF;
+  box-sizing: border-box;
+  
+  width: 150px;
+  height: 300px;
+
+  padding: 10px;
+  margin: 10px;
+
+  border:5px solid black
+}
+.box1:hover {
+   background-color: black;
+}
+.box2 {
+  background-color:#FFF;
+  box-sizing: border-box;
+  
+  width: 650px;
+/*   height: 1200px; */
+
+  padding: 10px;
+  margin: 10px;
+    
+
+  border:5px solid black;   
+}
+.box2:hover {
+   background-color: black;
+}
+.box3 {
+  background-color:#FFF;
+  box-sizing: border-box;
+  
+  width: 750px;
+  height: 250px;
+
+  padding: 10px;
+  margin: 10px;
+
+  border:5px solid black
+}
+.box3:hover {
+   background-color: black;
+}
+.box4 {
+  background-color:#FFF;
+  box-sizing: border-box;
+  
+  width: 600px;
+  height: 400px;
+
+  padding: 10px;
+  margin: 10px;
+
+  border:5px solid black
+}
+.box4:hover {
+   background-color: black;
+}
+.box5 {
+  background-color:#FFF;
+  box-sizing: border-box;
+  
+  width: 450px;
+  height: 400px;
+
+  padding: 10px;
+  margin: 10px;
+
+  border:5px solid black
+}
+.box5:hover {
+   background-color: black;
+}
+.box6 {
+  background-color:#FFF;
+  box-sizing: border-box;
+  
+  width: 800px;
+  height: 1200px;
+
+  padding: 10px;
+  margin: 10px;
+
+  border:5px solid black
+}
+.box6:hover {
+   background-color: black;
+}
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@300&display=swap');
+body {
+  font-family: 'Sono', sans-serif;font-weight: 300
+}
+.div2 {
+  width: 200px;
+  float: right;
+}
